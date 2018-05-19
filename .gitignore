@@ -3,3 +3,7 @@
 /lib
 /include
 /pip-selfcheck.json
+
+# PyCharm
+/.idea/tasks.xml
+/.idea/workspace.xml
