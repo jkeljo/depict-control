@@ -1,0 +1,10 @@
+## The following requirements were added by pip freeze:
+aiohttp==3.2.1
+async-timeout==3.0.0
+attrs==18.1.0
+chardet==3.0.4
+idna==2.6
+idna-ssl==1.0.1
+multidict==4.3.1
+netifaces==0.10.7
+yarl==1.2.4
